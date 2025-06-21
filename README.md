@@ -1,8 +1,8 @@
+![nila-genkit](https://github.com/user-attachments/assets/dc955181-20b3-41e8-af47-db6a73076f66)
+
 # NILA: Naturally In Line Agile - Slack Bot for Agile Teams
 
 NILA is a Slack bot that helps development teams manage Agile workflows directly from their conversations. This project demonstrates how to build a powerful AI Agent with Firebase Genkit, leveraging tool callings to expand its capabilities beyond simple conversation.
-
-![nila-genkit](https://github.com/user-attachments/assets/dc955181-20b3-41e8-af47-db6a73076f66)
 
 ## Architecture
 
